@@ -18,4 +18,4 @@ and access datasets. Useful for CSE students.
 Screenshots in this folder:
 - github_profile.png
 - linkedin_profile.png
-- kaggle_profile.png
+- kaggle profile.png
